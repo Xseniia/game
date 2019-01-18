@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Swamps and Dungeons</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/png" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div id="cube-loader" class="cube-loader-wrapper">
+      <div class="caption">
+        <div class="cube-loader">
+          <div class="cube loader-1"></div>
+          <div class="cube loader-2"></div>
+          <div class="cube loader-4"></div>
+          <div class="cube loader-3"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="game-health-bar">
+      <div class="game-health-wrapper">
+        <span class="game-monster-name" id="gamePlayerName">Player</span>
+        <div class="game-health-meter"><span style="width: 100%" id="gamePlayerHealth"></span></div>
+      </div>
+      <div class="game-kills-bar"><span>Kills</span> <span id="game-player-kills">0</span></div>
+      <div class="game-health-wrapper right-wrapper">
+        <span class="game-monster-name" id="gameMonsterName">Легендарный Рыцарь Албен</span>
+        <div class="game-health-meter red"><span style="width: 100%" id="gameMonsterHealth"></span></div>
+      </div>
+    </div>
+    <div class="modal-wrapper popupHide" id="modal-wrapper">
+      <div class="modal-window">
+        <span class="modal-title" id="modalID">LOGIN</span>
+        <span class="modal-description" id="modalDescription">What is your Name?</span>
+        <div class="modal-content" id="modalContent"></div>
+      </div>
+    </div>
+    <section class="popup popupHide" id="popup-window">
+      <div class="popup-description">
+        <div class="popup-title">
+          <h1 id="popup-title"></h1>
+          <div class="popup-timer-bar" id="popup-timer"></div>
+        </div>
+        <div class="popup-timer-counter"><span class="popup-description-task" id="popup-timer-counter">10</span></div>
+        <div class="popup-task-container" id="popup-task-wrapper">
+          <span class="popup-task" id="popup-task"></span>
+          <div class="popup-container" id="popup-task-container"></div>
+        </div>
+        <div class="popup-win popupHide" id="popup-win"></div>
+        <div class="popup-lose popupHide" id="popup-lose"></div>
+      </div>
+    </section>
+    <script type="text/javascript" src="main.js"></script>
+  </body>
+</html>

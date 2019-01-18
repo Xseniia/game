@@ -1,0 +1,35 @@
+{
+    "title": "English",
+    "description": "This time you will have to show your brilliant knowledge of English. Translate the word!",
+    "dictionary": [
+        {
+            "word": "cat",
+            "translate": ["кошка", "кот"]
+        },
+        {
+            "word": "sun",
+            "translate": ["солнце", "солнышко"]
+        },
+        {
+            "word": "helicopter",
+            "translate": ["вертолет"]
+        },
+        {
+            "word": "nail",
+            "translate": ["ноготь", "коготь", "гвоздь"]
+        },
+        {
+            "word": "seiling",
+            "translate": ["потолок"]
+        },
+        {
+            "word": "joke",
+            "translate": ["шутка", "прикол", "шутейка"]
+        },
+        {
+            "word": "hard drive",
+            "translate": ["жд", "жесткий диск"]
+        }
+    ]
+}
+  
