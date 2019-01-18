@@ -27,6 +27,62 @@
             "translate": ["шутка", "прикол", "шутейка"]
         },
         {
+            "word": "answer",
+            "translate": ["отвечать", "ответ"]
+        },
+        {
+            "word": "letter",
+            "translate": ["письмо"]
+        },
+        {
+            "word": "nurse",
+            "translate": ["медсестра"]
+        },
+        {
+            "word": "try",
+            "translate": ["пытаться", "пробовать"]
+        },
+        {
+            "word": "season",
+            "translate": ["сезон", "время года"]
+        },
+        {
+            "word": "free",
+            "translate": ["свободный", "бесплатный"]
+        },
+        {
+            "word": "right",
+            "translate": ["справа", "право", "направо", "правый", "правильный"]
+        },
+        {
+            "word": "pressure ",
+            "translate": ["давление"]
+        },
+        {
+            "word": "licence",
+            "translate": ["лицензия", "права"]
+        },
+        {
+            "word": "school",
+            "translate": ["школа"]
+        },
+        {
+            "word": "receipt",
+            "translate": ["рецепт", "чек"]
+        },
+        {
+            "word": "baggage ",
+            "translate": ["багаж", "сумка", "чемодан", "дорожная сумка"]
+        },
+        {
+            "word": "liquid",
+            "translate": ["жидкий", "жидкость"]
+        },
+        {
+            "word": "apologise",
+            "translate": ["извинения", "извиняться"]
+        },
+        {
             "word": "hard drive",
             "translate": ["жд", "жесткий диск"]
         }
